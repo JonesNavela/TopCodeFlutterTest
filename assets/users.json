@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ACC No",
+    "overdraft": 0,
+    "created": "2021-01-26T07:33:49.869Z",
+    "balance": null,
+    "modified": "2021-01-26T07:33:49.869Z",
+    "active": true,
+    "id": "0FgT1U0wHE23ahJ6KUPC",
+    "accountNumber": "3425635",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2"
+  },
+  {
+    "active": true,
+    "id": "2HzvQWVUVhTvOOWK50fR",
+    "balance": 1450,
+    "accountNumber": "3425635",
+    "modified": "2021-01-26T05:14:28.120Z",
+    "created": "2021-01-26T05:14:28.120Z",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "overdraft": 0,
+    "name": "ACC No"
+  },
+  {
+    "balance": 1200,
+    "active": true,
+    "modified": "2021-01-23T09:26:40.835Z",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "created": "2021-01-23T09:26:40.835Z",
+    "name": "ACC No",
+    "id": "Ex5mqNbi6qVxgkbftZUE",
+    "overdraft": 0,
+    "accountNumber": "3425635"
+  },
+  {
+    "created": "2021-01-26T06:33:14.768Z",
+    "overdraft": 0,
+    "modified": "2021-01-26T06:33:14.768Z",
+    "active": true,
+    "accountNumber": "3425635",
+    "id": "HPJ0sjVEllggcTIttxaL",
+    "balance": 2000,
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "name": "ACC No"
+  },
+  {
+    "balance": 600,
+    "overdraft": 0,
+    "created": "2021-01-26T05:13:45.983Z",
+    "id": "SQkRrkCfpaL5mnE14trE",
+    "accountNumber": "3425635",
+    "name": "ACC No",
+    "modified": "2021-01-26T05:13:45.983Z",
+    "active": true,
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2"
+  },
+  {
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "balance": 325,
+    "created": "2021-01-25T09:50:50.475Z",
+    "name": "name",
+    "modified": "2021-01-25T09:50:50.475Z",
+    "active": true,
+    "id": "cDlLfFHJ4sE8aMftDYOg",
+    "accountNumber": "number 012",
+    "overdraft": 200
+  },
+  {
+    "id": "eTpfx79UeJX6gkRxLeRt",
+    "overdraft": 600000,
+    "created": "2021-01-23T13:21:22.275Z",
+    "balance": 49500,
+    "accountNumber": "56362277",
+    "active": true,
+    "modified": "2021-01-23T13:21:22.275Z",
+    "name": "Savings ",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2"
+  },
+  {
+    "accountNumber": "32456788765",
+    "id": "kf3awbHAIvk237HNec2p",
+    "balance": 141,
+    "modified": "2021-01-23T09:33:10.974Z",
+    "overdraft": 0,
+    "name": "Savings Account",
+    "active": true,
+    "created": "2021-01-23T09:33:10.974Z",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2"
+  },
+  {
+    "accountNumber": "123",
+    "name": "Bob",
+    "overdraft": 10,
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "created": "2021-01-25T18:36:16.466Z",
+    "balance": 200,
+    "active": true,
+    "id": "khuTTfGG228bXbJT1wRI",
+    "modified": "2021-01-25T18:36:16.466Z"
+  },
+  {
+    "created": "2021-01-26T05:14:22.768Z",
+    "overdraft": 0,
+    "active": true,
+    "name": "ACC No",
+    "id": "ssrxv1FgcS088eDS3ULL",
+    "accountNumber": "3425635",
+    "userId": "UZyMgwSApiN0b148VDrZSAeWkfb2",
+    "modified": "2021-01-26T05:14:22.768Z",
+    "balance": 100
+  }
+]
